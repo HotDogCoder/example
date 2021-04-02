@@ -1,0 +1,5 @@
+{
+    "env":{
+        "MONGOOSE_PWD": "ditsy"
+    }
+} 
